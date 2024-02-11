@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 
 <h1 align="center">Hi 👋, I'm Ansa Anwaar</h1>
-<h3 align="center">A passionate future programmer from Pakistan</h3>
+<h3 align="center">A passionate undergrad future programmer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
